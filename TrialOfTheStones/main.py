@@ -24,4 +24,4 @@ buttonSecrets.click()
 
 inputMerchant.send_keys(merchant.text)
 
-
+#adicionado
